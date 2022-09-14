@@ -1,0 +1,57 @@
+{
+  "program": {
+    "candyMachine": "Eo3Rv2NaYgKejVHFK3tJQ8kHqxssUvCWnex1tyUddUnL",
+    "candyMachineCreator": "Fo1AF45J3PAdNuf9fCY7hG3j82pH1Xp89NqZMRWxzPAh",
+    "collectionMint": "5zWZXyzMeRwK4fd9rF5Sf9NZ9bT465wavfvvejY1zFSd"
+  },
+  "items": {
+    "-1": {
+      "name": "Buildoors",
+      "image_hash": "6f1c6f12d295f04afd0a7fa873a65b5a6580a9e077176033ceeb04471aff1cd7",
+      "image_link": "https://arweave.net/YzIAjghj0ShnnRApC9KimQ14tXm7xWvQuUQTqtBAxYg?ext=png",
+      "metadata_hash": "ee52f314c49374d46301e233b2f0449aac146635d5be9dcac94dc6cfc610fba0",
+      "metadata_link": "https://arweave.net/6cvkazszA0AG53Gip3UxszqW24Et4QioIHTS079mb0w",
+      "onChain": true
+    },
+    "0": {
+      "name": "Buildoor #1",
+      "image_hash": "3179dc0ea6e67e8331b95145a5b6b8c8ea7164c71b4d8aaa3a83bf80812e591c",
+      "image_link": "https://arweave.net/DXYkG3kdmjfkI_23ARBhau1E536QJw2iIk1l_LMPNH0?ext=png",
+      "metadata_hash": "8c5a5d036325843205d235332307519581e9328a713fb39d994db67ed24b77b1",
+      "metadata_link": "https://arweave.net/Mo7M-Xo65Beizlv9zS7xrdMY-oUyL34locDrA8joYxg",
+      "onChain": true
+    },
+    "1": {
+      "name": "Buildoor #2",
+      "image_hash": "59b9166c9704dc78b1010d895a943e4014f24629a3cd3843c783a792a434ed4a",
+      "image_link": "https://arweave.net/vfzfD8G8piXzkp6f6-8XNeLulGaM5nYAJlJwW2okTuY?ext=png",
+      "metadata_hash": "3b250dc18aa8fc7a3be9832e67632385b15a583f1b4193c56d7d5e406674c82a",
+      "metadata_link": "https://arweave.net/gOL0JHc8phk1uVLtMKG7fAss56Z3CbDceMRT6cMT1K0",
+      "onChain": true
+    },
+    "2": {
+      "name": "Buildoor #3",
+      "image_hash": "9d2362389a1d2e5d91b3e1fed4771251c9647614444a98df5f32a5dd84acb8e8",
+      "image_link": "https://arweave.net/FrnCN7pGp8qVfgWvIuosaF-eVouy-G8pd5wJweSeR2Q?ext=png",
+      "metadata_hash": "15196b7876f9939e160098852744bb62ed468d447030ac720f1165d39e612b5f",
+      "metadata_link": "https://arweave.net/gxh7JfBIv4hde_57PP0O-FPjPBHv8VeUH0-mUfL3zyY",
+      "onChain": true
+    },
+    "3": {
+      "name": "Buildoor #4",
+      "image_hash": "80941660812d943b4cdb6ab5ee104f94dc5a7d9baacf6d91089a762dbbd26357",
+      "image_link": "https://arweave.net/iJ_HY_M3rR517ohLA0F0Xq8sZWor9T6wrk0cIBN9Bsw?ext=png",
+      "metadata_hash": "915dd954f2b46d44c0e86f1c10963874ae7bd1f944e8593ed7c313f6421d183a",
+      "metadata_link": "https://arweave.net/MyRS67boEqBD-sd7NXKJeimjyAW0_x7PVV5y8cRSh4I",
+      "onChain": true
+    },
+    "4": {
+      "name": "Buildoor #5",
+      "image_hash": "35a6c4c815910ca59f70f0314cd7f3e7a4c5938c468afd051670102324454d8b",
+      "image_link": "https://arweave.net/_6YFPYM7QFuuGqEVM9YfiOyU34LG9D_FHPastoO_DzE?ext=png",
+      "metadata_hash": "e764f1c40ab79b63bcbb2e8d4003c7f282153ba28160d79c8bd9dfc470c57ee0",
+      "metadata_link": "https://arweave.net/Im7y7gSVoPGLP8IDOarqdRS8Klk2P4t4kEpshi48mXs",
+      "onChain": true
+    }
+  }
+}
